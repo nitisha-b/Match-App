@@ -7,4 +7,6 @@ The Match App is a card matching game. The user gets 30 seconds to find and matc
 * The user can press the "OK" button to restart the game. 
 
 ## App Walkthrough
+<img src="IntroScreen.png" alt="Intro screen of the app" width="700">
+
 <img src="http://g.recordit.co/8SfK7BZEpE.gif" alt="Demo of the app" width="700">
